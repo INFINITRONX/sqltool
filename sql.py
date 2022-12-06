@@ -1,7 +1,8 @@
 import time
 import os
 os.system("clear")
-#ggggllllffhsdhfsfgcolours
+#All rights reserved to darkcyberweapon
+#dont change or copy any code
 
 R = "\033[01m \033[91m"
 G = "\033[01m \033[92m"
